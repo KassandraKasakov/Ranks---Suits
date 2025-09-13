@@ -1,4 +1,4 @@
-I added things to the game
+More ranks and suits
 
 
 # Content

@@ -5,11 +5,11 @@
   "author": ["Kassandra"],
   "description": "More ranks and suits",
   "prefix": "rs",
-  "main_file": "kassandraextras.lua",
+  "main_file": "main.lua",
   "version": "1.0.a",
   "priority": 0,
-  "badge_colour": "c0a9db",
-  "badge_text_colour": "FFFFFF",
+  "badge_colour": "ffffff",
+  "badge_text_colour": "ffffff",
   "dependencies": [
     "Steamodded (>=1.0.0~BETA-0711a)"
   ]
