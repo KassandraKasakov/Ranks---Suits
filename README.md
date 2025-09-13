@@ -3,7 +3,9 @@ More ranks and suits
 
 # Content
 
-- Nothing !
+New ranks :
+- 0
+- 1
 
 
 

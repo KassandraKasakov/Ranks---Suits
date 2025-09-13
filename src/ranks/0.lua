@@ -12,7 +12,7 @@ SMODS.Rank {
     pos = { x = 0 },
 
     straight_edge = true,
-    next = { '2' },
+    next = { 'rs_1' },
     nominal = 0,
     face = false,
 
@@ -29,6 +29,5 @@ SMODS.Rank {
 SMODS.Rank:take_ownership('Ace',
   {
     next = { 'rs_0' },
-    straight_edge = false
   }
 )

@@ -31,4 +31,8 @@ SMODS.Atlas({
 
 -- Load all files
 
-assert(SMODS.load_file("src/ranks/0.lua"))()
+
+-- Ranks 
+
+assert(SMODS.load_file("src/ranks/0.lua"))() -- 0
+assert(SMODS.load_file("src/ranks/1.lua"))() -- 1
